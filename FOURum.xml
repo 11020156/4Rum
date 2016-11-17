@@ -25,7 +25,16 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
-
+<item>
+    <title>談 公屋富戶政策 / 釋法DQ引致的影響</title>
+    <pubDate>16 November 2016</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum16Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D16%20Nov%202016%20-%20%E5%85%AC%E5%B1%8B%E5%AF%8C%E6%88%B6%E6%94%BF%E7%AD%96%20_%20%E9%87%8B%E6%B3%95DQ%E5%BC%95%E8%87%B4%E7%9A%84%E5%BD%B1%E9%9F%BF.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/JBVY7a9JKz0/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=JBVY7a9JKz0" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>談 龍</title>
     <pubDate>13 November 2016</pubDate>
