@@ -25,6 +25,17 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
+
+<item>
+    <title>禁忌</title>
+    <pubDate>27 November 2016</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，女皇，探長</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum27Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D27%20Nov%202016%20-%20%E7%A6%81%E5%BF%8C.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/wUjvF-jbh60/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=wUjvF-jbh60" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>未來特首期望 / 耶教與佛</title>
     <pubDate>26 November 2016</pubDate>
