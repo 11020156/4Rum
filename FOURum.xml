@@ -25,7 +25,16 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
-
+<item>
+    <title>無題</title>
+    <pubDate>30 November 2016</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum30Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D30%20Nov%202016.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/Gsqt0ilw7_Q/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=Gsqt0ilw7_Q" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>禁忌</title>
     <pubDate>27 November 2016</pubDate>
