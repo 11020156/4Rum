@@ -35,6 +35,17 @@
     <itunes:image>https://c1.staticflickr.com/9/8203/8265590387_cefbec3838_b.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=C2QnvlAwV_E" type="application/x-shockwave-flash" medium="video" />
 </item>
+
+<item>
+    <title>挪亞方舟 (二)</title>
+    <pubDate>4 December 2016</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，蕭公子，楊漢群</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum4Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D4%20Dec%202016%20-%20%E6%8C%AA%E4%BA%9E%E6%96%B9%E8%88%9F%20(%E4%BA%8C).mp3"/>
+    <itunes:image>https://img.youtube.com/vi/qoI7eEdRnn4/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=qoI7eEdRnn4" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>政客與政治家</title>
     <pubDate>3 December 2016</pubDate>
