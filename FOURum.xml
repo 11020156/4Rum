@@ -36,7 +36,16 @@
     <media:content url="https://www.youtube.com/watch?v=C2QnvlAwV_E" type="application/x-shockwave-flash" medium="video" />
 </item> -->
 
-
+<item>
+    <title>談 選委選舉結果 / 支爆</title>
+    <pubDate>14 December 2016</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum14Dec2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D14%20Dec%202016%20-%20%E9%81%B8%E5%A7%94%E9%81%B8%E8%88%89%E7%B5%90%E6%9E%9C%20%2F%20%E6%94%AF%E7%88%86.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/IAKUOCF2_lA/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=IAKUOCF2_lA" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>談 人狼傳奇</title>
     <pubDate>11 December 2016</pubDate>
