@@ -25,7 +25,7 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
-<item>
+<!-- <item>
     <title>9-14號節目暫停更新</title>
     <pubDate>2 December 2016</pubDate>
     <category>道歉啓事</category>
@@ -34,8 +34,19 @@
     <enclosure url="https://archive.org/download/FOURum25Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D25%20Nov%202016%20-%20%E7%B2%B5%E6%B8%AF%E6%AD%87%E5%BE%8C%E8%AA%9E%20(%E6%88%90%E4%BA%BA%E7%89%88).mp3"/>
     <itunes:image>https://c1.staticflickr.com/9/8203/8265590387_cefbec3838_b.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=C2QnvlAwV_E" type="application/x-shockwave-flash" medium="video" />
-</item>
+</item> -->
 
+
+<item>
+    <title>談 選委與特首選戰 / 香港經濟與焦土論 / 精英換血</title>
+    <pubDate>7 December 2016</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，女皇，嘉賓：容樂其</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum7Dec2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D7%20Dec%202016.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/fi6RObKQdK8/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=fi6RObKQdK8" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>挪亞方舟 (二)</title>
     <pubDate>4 December 2016</pubDate>
