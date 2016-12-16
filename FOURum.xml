@@ -37,8 +37,26 @@
 </item> -->
 
 
-
-
+<item>
+    <title>談 人狼傳奇</title>
+    <pubDate>11 December 2016</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，蕭公子</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum11Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D11%20Dec%202016%20-%20%E4%BA%BA%E7%8B%BC%E5%82%B3%E5%A5%87.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/MEBPaLxrXC0/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=MEBPaLxrXC0" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>談 689</title>
+    <pubDate>10 December 2016</pubDate>
+    <category>禁室不禁話</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，探長 嘉賓：Gordon Poon</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum10Dec2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D10%20Dec%202016%20-%20689.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/52PFrAqmn7M/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=52PFrAqmn7M" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>談 港式拍拖</title>
     <pubDate>9 December 2016</pubDate>
