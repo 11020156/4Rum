@@ -36,6 +36,17 @@
     <media:content url="https://www.youtube.com/watch?v=C2QnvlAwV_E" type="application/x-shockwave-flash" medium="video" />
 </item> -->
 
+
+<item>
+    <title>面試 (一)</title>
+    <pubDate>16 December 2016</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，蕭公子，楊漢群</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum16Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D16%20Dec%202016%20-%20%E9%9D%A2%E8%A9%A6%20(%E4%B8%80).mp3"/>
+    <itunes:image>https://img.youtube.com/vi/racaOkqJtNI/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=racaOkqJtNI" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>談 選委選舉結果 / 支爆</title>
     <pubDate>14 December 2016</pubDate>
