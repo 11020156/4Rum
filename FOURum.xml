@@ -36,7 +36,7 @@
     <media:content url="https://www.youtube.com/watch?v=C2QnvlAwV_E" type="application/x-shockwave-flash" medium="video" />
 </item> -->
 
-<item>
+<!-- <item>
     <title>Happy New Year</title>
     <pubDate>1 January 2017</pubDate>
     <category>Merry Christmas</category>
@@ -45,8 +45,18 @@
     <enclosure url="https://archive.org/download/Enya-WeWishYouAMerryChristmas_217/Enya-WeWishYouAMerryChristmas.mp3"/>
     <itunes:image>https://img.youtube.com/vi/C41q5YLnF10/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=C41q5YLnF10" type="application/x-shockwave-flash" medium="video" />
-</item>
+</item> -->
 
+<item>
+    <title>日本妖怪 (二)</title>
+    <pubDate>1 January 2017</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，蕭公子 ，文浩基</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum1Jan2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D1%20Jan%202017%20-%20%E6%97%A5%E6%9C%AC%E5%A6%96%E6%80%AA%20(%E4%BA%8C).mp3"/>
+    <itunes:image>https://img.youtube.com/vi/b29WOkRA4RA/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=b29WOkRA4RA" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>談 港式婚俗</title>
     <pubDate>30 December 2016</pubDate>
