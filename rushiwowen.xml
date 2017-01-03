@@ -1,0 +1,92 @@
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+    xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd" 
+    xmlns:wfw="http://wellformedweb.org/CommentAPI/" 
+    xmlns:dc="http://purl.org/dc/elements/1.1/" 
+    xmlns:media="http://search.yahoo.com/mrss/"
+    version="2.0">
+  <channel>
+  <title>FOURum</title>
+  <link>https://www.facebook.com/hkfourum/</link>
+  <language>zh-hk</language>
+  <copyright>https://www.facebook.com/hkfourum/</copyright>
+  <itunes:subtitle>FOURum</itunes:subtitle>
+
+  <itunes:author>FOURum</itunes:author>
+  <itunes:summary>FOURum</itunes:summary>
+  <description>FOURum</description>
+  <itunes:owner>
+    <itunes:name>FOURum</itunes:name>
+    <itunes:email></itunes:email>
+
+  </itunes:owner>
+  <itunes:category text="Society &amp; Culture">
+    <itunes:category text="Society &amp; Culture"/>
+  </itunes:category>
+  <itunes:explicit>Yes</itunes:explicit>
+  <allowDownload></allowDownload>
+
+<item>
+    <title>日本妖怪 (二)</title>
+    <pubDate>1 January 2017</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，蕭公子 ，文浩基</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum1Jan2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D1%20Jan%202017%20-%20%E6%97%A5%E6%9C%AC%E5%A6%96%E6%80%AA%20(%E4%BA%8C).mp3"/>
+    <itunes:image>https://img.youtube.com/vi/b29WOkRA4RA/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=b29WOkRA4RA" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>日本妖怪 (一)</title>
+    <pubDate>25 December 2016</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，蕭公子 ，文浩基</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum25Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D25%20Dec%202016%20-%20%E6%97%A5%E6%9C%AC%E5%A6%96%E6%80%AA%20(%E4%B8%80).mp3"/>
+    <itunes:image>https://img.youtube.com/vi/buz1SYyzbJE/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=buz1SYyzbJE" type="application/x-shockwave-flash" medium="video" />
+</item>
+
+<item>
+    <title>我們的鬼故事</title>
+    <pubDate>18 December 2016</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，探長 嘉賓：Gordon Poon</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum18Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D18%20Dec%202016%20-%20%E6%88%91%E5%80%91%E7%9A%84%E9%AC%BC%E6%95%85%E4%BA%8B.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/0C7hWhGj8TM/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=0C7hWhGj8TM" type="application/x-shockwave-flash" medium="video" />
+</item>
+
+<item>
+    <title>談 人狼傳奇</title>
+    <pubDate>11 December 2016</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，蕭公子</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum11Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D11%20Dec%202016%20-%20%E4%BA%BA%E7%8B%BC%E5%82%B3%E5%A5%87.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/MEBPaLxrXC0/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=MEBPaLxrXC0" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>挪亞方舟 (二)</title>
+    <pubDate>4 December 2016</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，蕭公子，楊漢群</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum4Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D4%20Dec%202016%20-%20%E6%8C%AA%E4%BA%9E%E6%96%B9%E8%88%9F%20(%E4%BA%8C).mp3"/>
+    <itunes:image>https://img.youtube.com/vi/qoI7eEdRnn4/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=qoI7eEdRnn4" type="application/x-shockwave-flash" medium="video" />
+</item>
+
+<item>
+    <title>禁忌</title>
+    <pubDate>27 November 2016</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，女皇，探長</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum27Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D27%20Nov%202016%20-%20%E7%A6%81%E5%BF%8C.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/wUjvF-jbh60/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=wUjvF-jbh60" type="application/x-shockwave-flash" medium="video" />
+</item>
+</channel>
+</rss>
