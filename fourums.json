@@ -1,0 +1,39 @@
+{
+  "myradios": {
+    "timezone": "Asia/Hong_Kong",
+    "fourum": [
+      {
+        "title": "謎米香港",
+        "defaulticon": "memelogo.png",
+        "largeicon": "http://www.dimbo.tv/images/index/memehk.png",
+        "channel": [
+          {
+            "title": "毓民踩場",
+            "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=2",
+            "icon": "http://www.netpodcast.net/ppilogo.jpg"
+          },
+          {
+            "title": "大香港早晨",
+            "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=17",
+            "icon": "http://www.netpodcast.net/ppilogo.jpg"
+          },
+          {
+            "title": "本土論壇",
+            "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=8",
+            "icon": "http://www.netpodcast.net/ppilogo.jpg"
+          },
+          {
+            "title": "特備節目",
+            "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=13",
+            "icon": "http://www.netpodcast.net/ppilogo.jpg"
+          },
+          {
+            "title": "神秘之夜",
+            "url": "http://hkr2.netpodcast.net/channelrssMy2.php?channelid=4",
+            "icon": "http://www.netpodcast.net/ppilogo.jpg"
+          }
+        ]
+      }
+    ]
+  }
+}
