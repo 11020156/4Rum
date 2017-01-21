@@ -46,7 +46,16 @@
     <itunes:image>https://img.youtube.com/vi/C41q5YLnF10/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=C41q5YLnF10" type="application/x-shockwave-flash" medium="video" />
 </item> -->
-
+<item>
+    <title>談 香港查之女 / 私家偵探行業揭秘</title>
+    <pubDate>20 January 2017</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，Amanda 嘉賓：Philic Man</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum20Jan2017/_FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D20%20Jan%202017%20-%20%E9%A6%99%E6%B8%AF%E6%9F%A5%E4%B9%8B%E5%A5%B3%20_%20%E7%A7%81%E5%AE%B6%E5%81%B5%E6%8E%A2%E8%A1%8C%E6%A5%AD%E6%8F%AD%E7%A7%98.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/XPfm2lHV0s0/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=XPfm2lHV0s0" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>談 印度古葉</title>
     <pubDate>19 January 2017</pubDate>
