@@ -36,16 +36,16 @@
     <media:content url="https://www.youtube.com/watch?v=C2QnvlAwV_E" type="application/x-shockwave-flash" medium="video" />
 </item> -->
 
-<!-- <item>
-    <title>Happy New Year</title>
-    <pubDate>1 January 2017</pubDate>
-    <category>Merry Christmas</category>
-    <itunes:author>Christmas Carols</itunes:author>
-    <itunes:summary>🍻🍻</itunes:summary>
-    <enclosure url="https://archive.org/download/Enya-WeWishYouAMerryChristmas_217/Enya-WeWishYouAMerryChristmas.mp3"/>
-    <itunes:image>https://img.youtube.com/vi/C41q5YLnF10/0.jpg</itunes:image>
-    <media:content url="https://www.youtube.com/watch?v=C41q5YLnF10" type="application/x-shockwave-flash" medium="video" />
-</item> -->
+<item>
+    <title>恭喜發財</title>
+    <pubDate>25 January 2017</pubDate>
+    <category>新春期間</category>
+    <itunes:author>暫停更新</itunes:author>
+    <itunes:summary>聽多次賜官 談「龍」</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum13Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D13%20Nov%202016%20-%20%E9%BE%8D.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/ioO9yEQqcTM/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=ioO9yEQqcTM" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>談 香港查之女 / 私家偵探行業揭秘</title>
     <pubDate>20 January 2017</pubDate>
