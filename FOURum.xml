@@ -36,7 +36,7 @@
     <media:content url="https://www.youtube.com/watch?v=C2QnvlAwV_E" type="application/x-shockwave-flash" medium="video" />
 </item> -->
 
-<item>
+<!-- <item>
     <title>恭喜發財</title>
     <pubDate>25 January 2017</pubDate>
     <category>新春期間</category>
@@ -45,6 +45,28 @@
     <enclosure url="https://archive.org/download/FOURum13Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D13%20Nov%202016%20-%20%E9%BE%8D.mp3"/>
     <itunes:image>https://img.youtube.com/vi/ioO9yEQqcTM/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=ioO9yEQqcTM" type="application/x-shockwave-flash" medium="video" />
+</item> -->
+
+
+<item>
+    <title>談 特首候選人與選委/開發郊野公園/杜林普圍堵中國</title>
+    <pubDate>25 January 2017</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，楊漢群</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum25Jan2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D25%20Jan%202017%20-%20%E7%89%B9%E9%A6%96%E5%80%99%E9%81%B8%E4%BA%BA%E8%88%87%E9%81%B8%E5%A7%94%20_%20%E9%96%8B%E7%99%BC%E9%83%8A%E9%87%8E%E5%85%AC%E5%9C%92%20_%20%E6%9D%9C%E6%9E%97%E6%99%AE%E5%9C%8D%E5%A0%B5%E4%B8%AD%E5%9C%8B.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/AW8KP-uaHRsNPP2eoa9CU8/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=NPP2eoa9CU8" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>談 葉劉被棄 / 300票製造有利局面</title>
+    <pubDate>17 January 2017</pubDate>
+    <category>論盡猛丁歌</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>Gordon Poon</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum17Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D17%20Jan%202017.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/d3noqS1_rH4/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=d3noqS1_rH4" type="application/x-shockwave-flash" medium="video" />
 </item>
 <item>
     <title>談 香港查之女 / 私家偵探行業揭秘</title>
