@@ -47,7 +47,16 @@
     <media:content url="https://www.youtube.com/watch?v=ioO9yEQqcTM" type="application/x-shockwave-flash" medium="video" />
 </item> -->
 
-
+<item>
+    <title>談 書法特輯</title>
+    <pubDate>27 January 2017</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，Amanda 嘉賓：林少萍</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum27Jan2017/_FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D27%20Jan%202017%20-%20%E6%9B%B8%E6%B3%95%E7%89%B9%E8%BC%AF.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/PDwfmdBFaEY/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=PDwfmdBFaEY" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>談 特首候選人與選委/開發郊野公園/杜林普圍堵中國</title>
     <pubDate>25 January 2017</pubDate>
