@@ -47,7 +47,16 @@
     <media:content url="https://www.youtube.com/watch?v=ioO9yEQqcTM" type="application/x-shockwave-flash" medium="video" />
 </item> -->
 
-
+<item>
+    <title>談 偽港獨與鬼 / 長毛參選</title>
+    <pubDate>7 February 2017</pubDate>
+    <category>論盡猛丁歌</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>Gordon Poon 嘉賓：何志光</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum7Feb2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D7%20Feb%202017.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/3DB5-MopG1g/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=3DB5-MopG1g" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>談 命運解碼 (一)</title>
     <pubDate>5 February 2017</pubDate>
