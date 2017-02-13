@@ -47,7 +47,26 @@
     <media:content url="https://www.youtube.com/watch?v=ioO9yEQqcTM" type="application/x-shockwave-flash" medium="video" />
 </item> -->
 
-
+<!-- <item>
+    <title>談 命運解碼 (一)</title>
+    <pubDate>5 February 2017</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum12Feb2017/Fourum12Feb2017-.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/BUpmr3l1SC0/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=BUpmr3l1SC0" type="application/x-shockwave-flash" medium="video" />
+</item> -->
+<item>
+    <title>港人面對特首選戰的心態／人獸交</title>
+    <pubDate>11 February 2017</pubDate>
+    <category>禁室不禁話</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，女皇，Gordon Poon</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum11Feb2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D11%20Feb%202017.mp3"/>
+    <itunes:image>https://img.youtube.com/vi/QMtEbfbYaPo/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=QMtEbfbYaPo" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>愛情有得學</title>
     <pubDate>10 February 2017</pubDate>
