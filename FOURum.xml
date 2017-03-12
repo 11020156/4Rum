@@ -31,7 +31,7 @@
     <category>道歉啓事</category>
     <itunes:author>請假去旅行</itunes:author>
     <itunes:summary>敬請見諒🙇🙇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum25Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D25%20Nov%202016%20-%20%E7%B2%B5%E6%B8%AF%E6%AD%87%E5%BE%8C%E8%AA%9E%20(%E6%88%90%E4%BA%BA%E7%89%88).mp3"/>
+    <enclosure url="https://archive.org/download/FOURum25Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D25%20Nov%202016%20-%20%E7%B2%B5%E6%B8%AF%E6%AD%87%E5%BE%8C%E8%AA%9E%20(%E6%88%90%E4%BA%BA%E7%89%88).mp3" type="audio/mpeg"/>
     <itunes:image>https://c1.staticflickr.com/9/8203/8265590387_cefbec3838_b.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=C2QnvlAwV_E" type="application/x-shockwave-flash" medium="video" />
 </item> -->
@@ -42,18 +42,28 @@
     <category>新春期間</category>
     <itunes:author>暫停更新</itunes:author>
     <itunes:summary>聽多次賜官 談「龍」</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum13Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D13%20Nov%202016%20-%20%E9%BE%8D.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum13Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D13%20Nov%202016%20-%20%E9%BE%8D.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/ioO9yEQqcTM/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=ioO9yEQqcTM" type="application/x-shockwave-flash" medium="video" />
 </item> -->
 
 <item>
-    <title>空中服務員生活</title>
+    <title>《六七暴動五十周年》</title>
+    <pubDate>11 March 2017</pubDate>
+    <category>禁室不禁話</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，蕭公子</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum11Mar2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D11%20Mar%202017%E3%80%8A%E5%85%AD%E4%B8%83%E6%9A%B4%E5%8B%95%E4%BA%94%E5%8D%81%E5%91%A8%E5%B9%B4%E3%80%8B.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/AW546Eu0u8A/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=AW546Eu0u8A" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《空中服務員生活》</title>
     <pubDate>10 March 2017</pubDate>
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，Amanda 嘉賓：Krystal, Krystal, Daniel, Kelvin, Queenie</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum10Mar2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D10%20Mar%202017%20-%20%E7%A9%BA%E4%B8%AD%E6%9C%8D%E5%8B%99%E5%93%A1%E7%94%9F%E6%B4%BB.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum10Mar2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D10%20Mar%202017%20-%20%E7%A9%BA%E4%B8%AD%E6%9C%8D%E5%8B%99%E5%93%A1%E7%94%9F%E6%B4%BB.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/AzKn9NMRcCI/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=AzKn9NMRcCI" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -63,7 +73,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum8Mar2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D8%20Mar%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum8Mar2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D8%20Mar%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/ZFLV8AyBrys/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=ZFLV8AyBrys" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -73,7 +83,7 @@
     <category>論盡猛丁歌</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>主持：Gordon Poon 嘉賓：陸錦城</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum7Mar2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D7%20Mar%202017%E3%80%8A%E5%8E%9F%E5%89%87VS%E7%AD%96%E7%95%A5%20%EF%BC%8D%20%E6%AD%8C%E5%9F%8E%E8%AB%96%E7%AC%AC%E4%B8%80%E5%9B%9E%E3%80%8B.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum7Mar2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D7%20Mar%202017%E3%80%8A%E5%8E%9F%E5%89%87VS%E7%AD%96%E7%95%A5%20%EF%BC%8D%20%E6%AD%8C%E5%9F%8E%E8%AB%96%E7%AC%AC%E4%B8%80%E5%9B%9E%E3%80%8B.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/Uou10NNyKaE/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Uou10NNyKaE" type="application/x-shockwave-flash" medium="video" />
 <item>
@@ -82,7 +92,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum5Mar2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D5%20Mar%202017%20-%20%E7%89%B9%E9%A6%96%E8%BE%AF%E8%AB%96%20_%20%E7%82%BA%E4%BD%95689%202.0%E7%84%A1%E6%B3%95%E7%95%B6%E9%81%B8%EF%BC%9F%20_%20%E4%BA%BA%E4%BA%BA%E5%BF%83%E8%A3%8F%E6%8A%8A%E5%B0%BA%20-%20%E9%98%BF%E9%A0%BC%E8%80%B6%E8%AD%98%20_%20%E4%B8%89%E7%A8%AE%E6%AD%BB%E4%BA%A1%20_%20%E6%9C%80%E7%B0%A1%E6%98%93%E7%A9%8D%E7%A6%8F%E6%96%B9%E6%B3%95%20-%20%E6%96%BD%E9%A3%9F.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum5Mar2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D5%20Mar%202017%20-%20%E7%89%B9%E9%A6%96%E8%BE%AF%E8%AB%96%20_%20%E7%82%BA%E4%BD%95689%202.0%E7%84%A1%E6%B3%95%E7%95%B6%E9%81%B8%EF%BC%9F%20_%20%E4%BA%BA%E4%BA%BA%E5%BF%83%E8%A3%8F%E6%8A%8A%E5%B0%BA%20-%20%E9%98%BF%E9%A0%BC%E8%80%B6%E8%AD%98%20_%20%E4%B8%89%E7%A8%AE%E6%AD%BB%E4%BA%A1%20_%20%E6%9C%80%E7%B0%A1%E6%98%93%E7%A9%8D%E7%A6%8F%E6%96%B9%E6%B3%95%20-%20%E6%96%BD%E9%A3%9F.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/1cKTQdKDg1w/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=1cKTQdKDg1w" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -92,7 +102,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum4Mar2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D4%20Mar%202017%20%E3%80%8A%E9%BB%9E%E8%A7%A3689%202.0%E5%86%87%E5%8F%AF%E8%83%BD%E7%95%B6%E9%81%B8%EF%BC%9F_%20%E8%AA%B0%E6%98%AF%E9%98%BF%E7%88%BA%EF%BC%9F%E8%AA%B0%E6%98%AF%E4%B8%AD%E5%A4%AE%EF%BC%9F%20_%20%E4%B8%8B%E5%B1%86%E7%89%B9%E9%A6%96%E8%82%A9%E8%B2%A0%E7%89%B9%E5%88%A5%E5%98%85%E6%94%BF%E6%B2%BB%E9%87%8D%E4%BB%BB%20_%20%E9%82%8A%E5%80%8B%E7%95%B6%E9%81%B8%E9%98%BF%E7%88%BA%E6%9C%80%E9%96%8B%E5%BF%83%EF%BC%9F%E3%80%8B.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum4Mar2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D4%20Mar%202017%20%E3%80%8A%E9%BB%9E%E8%A7%A3689%202.0%E5%86%87%E5%8F%AF%E8%83%BD%E7%95%B6%E9%81%B8%EF%BC%9F_%20%E8%AA%B0%E6%98%AF%E9%98%BF%E7%88%BA%EF%BC%9F%E8%AA%B0%E6%98%AF%E4%B8%AD%E5%A4%AE%EF%BC%9F%20_%20%E4%B8%8B%E5%B1%86%E7%89%B9%E9%A6%96%E8%82%A9%E8%B2%A0%E7%89%B9%E5%88%A5%E5%98%85%E6%94%BF%E6%B2%BB%E9%87%8D%E4%BB%BB%20_%20%E9%82%8A%E5%80%8B%E7%95%B6%E9%81%B8%E9%98%BF%E7%88%BA%E6%9C%80%E9%96%8B%E5%BF%83%EF%BC%9F%E3%80%8B.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/1cKTQdKDg1w/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=1cKTQdKDg1w" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -102,7 +112,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，Amanda 嘉賓：家駿，Edwin，昌昌</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum3Mar2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D3%20Mar%202017%20-%20%E6%84%9B%E6%83%85%E6%95%99%E7%B7%B4%20(%E7%94%B7%E5%AD%90%E7%AF%87).mp3"/>
+    <enclosure url="https://archive.org/download/FOURum3Mar2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D3%20Mar%202017%20-%20%E6%84%9B%E6%83%85%E6%95%99%E7%B7%B4%20(%E7%94%B7%E5%AD%90%E7%AF%87).mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/ei48LnVe11A/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=ei48LnVe11A" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -112,7 +122,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum1Mar2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D1%20Mar%202017%20-%20%E6%9C%80%E6%96%B0%E5%85%A5%E9%96%98%E5%BD%A2%E5%8B%A2.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum1Mar2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D1%20Mar%202017%20-%20%E6%9C%80%E6%96%B0%E5%85%A5%E9%96%98%E5%BD%A2%E5%8B%A2.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/rlxVpW0xr7U/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=rlxVpW0xr7U" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -122,7 +132,7 @@
     <category>論盡猛丁歌</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>Gordon Poon 嘉賓：Jason</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum28Feb2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D28%20Feb%202017%20-%20%E6%8B%86%E8%A7%A3%E7%A5%9E%E5%A5%87%E6%95%B8%E5%AD%97.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum28Feb2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D28%20Feb%202017%20-%20%E6%8B%86%E8%A7%A3%E7%A5%9E%E5%A5%87%E6%95%B8%E5%AD%97.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/CN3604LXI3o/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=CN3604LXI3o" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -132,7 +142,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，文浩基</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum26Feb2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D26%20Feb%202017%20-%20%E5%B1%B1%E6%B5%B7%E7%B6%93%20(%E4%BA%8C).mp3"/>
+    <enclosure url="https://archive.org/download/FOURum26Feb2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D26%20Feb%202017%20-%20%E5%B1%B1%E6%B5%B7%E7%B6%93%20(%E4%BA%8C).mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/QXlt8RUb3xU/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=QXlt8RUb3xU" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -142,7 +152,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>女皇，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum25Feb2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D25%20Feb%202017%20-%20%E8%83%A1%E5%AE%98%E5%85%A5%E9%96%98%20:%20%E8%BE%B1%E8%AD%A6%E7%BD%AA%20:%20%E9%AB%98%E6%BD%AE%E5%A5%B3.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum25Feb2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D25%20Feb%202017%20-%20%E8%83%A1%E5%AE%98%E5%85%A5%E9%96%98%20:%20%E8%BE%B1%E8%AD%A6%E7%BD%AA%20:%20%E9%AB%98%E6%BD%AE%E5%A5%B3.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/uUaPB6vvT6U/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=uUaPB6vvT6U" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -152,7 +162,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>Amanda 嘉賓：Kit, Angus</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum24Feb2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D24%20Feb%202017%20-%20%E9%8A%B7%E5%94%AE%E4%BA%BA%E5%93%A1%E5%BF%83%E6%85%8B%E8%88%87%E7%94%9F%E6%85%8B.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum24Feb2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D24%20Feb%202017%20-%20%E9%8A%B7%E5%94%AE%E4%BA%BA%E5%93%A1%E5%BF%83%E6%85%8B%E8%88%87%E7%94%9F%E6%85%8B.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/lFGciGewKvo/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=lFGciGewKvo" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -162,7 +172,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum22Feb2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D22%20Feb%202017%20-%207%E8%AD%A6%20_%20%E6%9B%BE%E8%94%AD%E6%AC%8A%E6%A1%88%20_%20%E8%96%AF%E7%89%87%E8%A2%AB%E9%A0%90%E5%91%8ADQ.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum22Feb2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D22%20Feb%202017%20-%207%E8%AD%A6%20_%20%E6%9B%BE%E8%94%AD%E6%AC%8A%E6%A1%88%20_%20%E8%96%AF%E7%89%87%E8%A2%AB%E9%A0%90%E5%91%8ADQ.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/MW5iCDdA-8c/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=MW5iCDdA-8c" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -172,7 +182,7 @@
     <category>論盡猛丁歌</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>Gordon Poon 嘉賓：立法會議員尹兆堅</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum21Feb2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D21%20Feb%202017%20-%20%E6%94%BF%E6%B2%BB%E9%A0%98%E8%A2%96%E8%88%87%E6%B0%91%E6%84%8F.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum21Feb2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D21%20Feb%202017%20-%20%E6%94%BF%E6%B2%BB%E9%A0%98%E8%A2%96%E8%88%87%E6%B0%91%E6%84%8F.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/C4evlQUfH_w/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=C4evlQUfH_w" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -182,7 +192,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum19Feb2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D19%20Feb%202017%20-%20%E4%B8%80%E3%80%81%E5%91%BD%20_%20%E8%87%A8%E7%B5%82%E5%8D%94%E5%8A%A9%20_%20%E4%B8%AD%E9%99%B0%E7%94%9F%E8%B7%AF%E9%80%94%20_%20%E9%82%84%E5%A3%BD%E7%94%9F%E9%8C%A2.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum19Feb2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D19%20Feb%202017%20-%20%E4%B8%80%E3%80%81%E5%91%BD%20_%20%E8%87%A8%E7%B5%82%E5%8D%94%E5%8A%A9%20_%20%E4%B8%AD%E9%99%B0%E7%94%9F%E8%B7%AF%E9%80%94%20_%20%E9%82%84%E5%A3%BD%E7%94%9F%E9%8C%A2.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/6Vg_Vcp3MOE/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=6Vg_Vcp3MOE" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -192,7 +202,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，探長 嘉賓：Ada，Roger</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum18Feb2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D18%20Feb%202017%20-%20%E4%B8%83%E8%AD%A6%E5%88%A4%E5%88%91%E7%9A%84%E5%A4%A7%E6%92%95%E8%A3%82%20_%20%E6%9B%BE%E7%89%B9%E9%A6%96%E6%A1%88.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum18Feb2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D18%20Feb%202017%20-%20%E4%B8%83%E8%AD%A6%E5%88%A4%E5%88%91%E7%9A%84%E5%A4%A7%E6%92%95%E8%A3%82%20_%20%E6%9B%BE%E7%89%B9%E9%A6%96%E6%A1%88.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/9y98H52fCgo/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=9y98H52fCgo" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -202,7 +212,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，Amanda 嘉賓：許龍杰醫生</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum17Feb2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D17%20Feb%202017%20-%20%E5%A4%9C%E5%8D%8A%E6%9A%A2%E8%AB%87%E7%B2%BE%E7%A5%9E%E7%97%85.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum17Feb2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D17%20Feb%202017%20-%20%E5%A4%9C%E5%8D%8A%E6%9A%A2%E8%AB%87%E7%B2%BE%E7%A5%9E%E7%97%85.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/QV-G0BNoICw/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=QV-G0BNoICw" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -212,7 +222,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群 嘉賓：梁國雄(長毛)</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum15Feb2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D15%20Feb%202017%20-%20%E6%A2%81%E5%9C%8B%E9%9B%84%20(%E9%95%B7%E6%AF%9B)%20%E4%B9%8B%20%E5%BF%BD%E7%84%B6%E5%82%99%E9%81%B8.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum15Feb2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D15%20Feb%202017%20-%20%E6%A2%81%E5%9C%8B%E9%9B%84%20(%E9%95%B7%E6%AF%9B)%20%E4%B9%8B%20%E5%BF%BD%E7%84%B6%E5%82%99%E9%81%B8.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/MIaVeKqx0cQ/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=MIaVeKqx0cQ" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -222,7 +232,7 @@
     <category>論盡猛丁歌</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>Gordon Poon 嘉賓：Jason</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum14Feb2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D14%20Feb%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum14Feb2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D14%20Feb%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/rKplpymGArE/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=rKplpymGArE" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -232,7 +242,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，文老師</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum12Feb2017/Fourum12Feb2017-.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum12Feb2017/Fourum12Feb2017-.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/fQuz8ozmcaU/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=fQuz8ozmcaU" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -242,7 +252,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum11Feb2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D11%20Feb%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum11Feb2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D11%20Feb%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/QMtEbfbYaPo/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=QMtEbfbYaPo" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -252,7 +262,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，Amanda 嘉賓：愛情教練鄭家駿</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum10Feb2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D10%20Feb%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum10Feb2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D10%20Feb%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/DSrsjVp17ZI/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=DSrsjVp17ZI" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -262,7 +272,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群 嘉賓：胡國興</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum8Feb2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D8%20Feb%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum8Feb2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D8%20Feb%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/TDqYmFcR-cw/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=TDqYmFcR-cw" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -272,7 +282,7 @@
     <category>論盡猛丁歌</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>Gordon Poon 嘉賓：何志光</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum7Feb2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D7%20Feb%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum7Feb2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D7%20Feb%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/3DB5-MopG1g/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=3DB5-MopG1g" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -282,7 +292,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum5Feb2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D5%20Feb%202017%20-%20%E5%91%BD%E9%81%8B%E8%A7%A3%E7%A2%BC%20(%E4%B8%80).mp3"/>
+    <enclosure url="https://archive.org/download/FOURum5Feb2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D5%20Feb%202017%20-%20%E5%91%BD%E9%81%8B%E8%A7%A3%E7%A2%BC%20(%E4%B8%80).mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/BUpmr3l1SC0/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=BUpmr3l1SC0" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -292,7 +302,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum4Feb2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D4%20Feb%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum4Feb2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D4%20Feb%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/oKePU3raGzo/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=oKePU3raGzo" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -302,7 +312,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，Amanda 嘉賓：Patrick</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum3Feb2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D3%20Feb%202017%20-%20%E5%B0%8FLego%EF%BC%8C%E5%A4%A7%E6%95%99%E8%82%B2.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum3Feb2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D3%20Feb%202017%20-%20%E5%B0%8FLego%EF%BC%8C%E5%A4%A7%E6%95%99%E8%82%B2.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/b0vk8NJBG-M/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=b0vk8NJBG-M" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -312,7 +322,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群，女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum1Feb2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D1%20Feb%202017%20-%20%E7%89%B9%E9%A6%96%E9%81%B8%E6%88%B0%E6%9C%80%E6%96%B0%E6%88%B0%E6%B3%81%20_%20%E8%82%96%E5%BB%BA%E8%8F%AF%E8%A2%AB%E6%8A%BC%E5%9B%9E%E4%BA%AC%20_%20%E7%B9%BC%E6%89%BF%E5%AD%94%E5%AD%9F%E5%84%92%E5%AE%B6%E4%B9%8B%E5%9C%8B.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum1Feb2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D1%20Feb%202017%20-%20%E7%89%B9%E9%A6%96%E9%81%B8%E6%88%B0%E6%9C%80%E6%96%B0%E6%88%B0%E6%B3%81%20_%20%E8%82%96%E5%BB%BA%E8%8F%AF%E8%A2%AB%E6%8A%BC%E5%9B%9E%E4%BA%AC%20_%20%E7%B9%BC%E6%89%BF%E5%AD%94%E5%AD%9F%E5%84%92%E5%AE%B6%E4%B9%8B%E5%9C%8B.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/Yf92Y7LleyA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=CU8Yf92Y7LleyA" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -322,7 +332,7 @@
     <category>論盡猛丁歌</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>Gordon Poon 嘉賓：Arvin</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum31Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D31%20Jan%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum31Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D31%20Jan%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/1J2TYfVUlUs/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=1J2TYfVUlUs" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -332,7 +342,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum29Jan2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D29%20Jan%202017%20-%20%E7%91%9E%E7%8D%B8%EF%BC%8C%E9%9D%88%E7%8D%B8%EF%BC%8C%E5%85%87%E7%8D%B8%EF%BC%8C%E6%83%A1%E7%8D%B8.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum29Jan2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D29%20Jan%202017%20-%20%E7%91%9E%E7%8D%B8%EF%BC%8C%E9%9D%88%E7%8D%B8%EF%BC%8C%E5%85%87%E7%8D%B8%EF%BC%8C%E6%83%A1%E7%8D%B8.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/TImEIacay6k/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=TImEIacay6k" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -342,7 +352,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子，女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum7Jan2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D7%20Jan%202017%20-%20%E6%95%85%E5%AE%AE%E5%8D%9A%E7%89%A9%E9%A4%A8.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum7Jan2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D7%20Jan%202017%20-%20%E6%95%85%E5%AE%AE%E5%8D%9A%E7%89%A9%E9%A4%A8.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/4QquLVAabtU/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=4QquLVAabtU" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -352,7 +362,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，Amanda 嘉賓：林少萍</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum27Jan2017/_FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D27%20Jan%202017%20-%20%E6%9B%B8%E6%B3%95%E7%89%B9%E8%BC%AF.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum27Jan2017/_FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D27%20Jan%202017%20-%20%E6%9B%B8%E6%B3%95%E7%89%B9%E8%BC%AF.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/PDwfmdBFaEY/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=PDwfmdBFaEY" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -362,7 +372,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum25Jan2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D25%20Jan%202017%20-%20%E7%89%B9%E9%A6%96%E5%80%99%E9%81%B8%E4%BA%BA%E8%88%87%E9%81%B8%E5%A7%94%20_%20%E9%96%8B%E7%99%BC%E9%83%8A%E9%87%8E%E5%85%AC%E5%9C%92%20_%20%E6%9D%9C%E6%9E%97%E6%99%AE%E5%9C%8D%E5%A0%B5%E4%B8%AD%E5%9C%8B.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum25Jan2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D25%20Jan%202017%20-%20%E7%89%B9%E9%A6%96%E5%80%99%E9%81%B8%E4%BA%BA%E8%88%87%E9%81%B8%E5%A7%94%20_%20%E9%96%8B%E7%99%BC%E9%83%8A%E9%87%8E%E5%85%AC%E5%9C%92%20_%20%E6%9D%9C%E6%9E%97%E6%99%AE%E5%9C%8D%E5%A0%B5%E4%B8%AD%E5%9C%8B.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/NPP2eoa9CU8/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=NPP2eoa9CU8" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -372,7 +382,7 @@
     <category>論盡猛丁歌</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum17Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D17%20Jan%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum17Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D17%20Jan%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/d3noqS1_rH4/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=d3noqS1_rH4" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -382,7 +392,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，Amanda 嘉賓：Philic Man</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum20Jan2017/_FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D20%20Jan%202017%20-%20%E9%A6%99%E6%B8%AF%E6%9F%A5%E4%B9%8B%E5%A5%B3%20_%20%E7%A7%81%E5%AE%B6%E5%81%B5%E6%8E%A2%E8%A1%8C%E6%A5%AD%E6%8F%AD%E7%A7%98.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum20Jan2017/_FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D20%20Jan%202017%20-%20%E9%A6%99%E6%B8%AF%E6%9F%A5%E4%B9%8B%E5%A5%B3%20_%20%E7%A7%81%E5%AE%B6%E5%81%B5%E6%8E%A2%E8%A1%8C%E6%A5%AD%E6%8F%AD%E7%A7%98.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/XPfm2lHV0s0/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=XPfm2lHV0s0" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -392,7 +402,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum19Jan2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D19%20Jan%202017%20%EF%BC%8D%20%E5%8D%B0%E5%BA%A6%E5%8F%A4%E8%91%89.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum19Jan2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D19%20Jan%202017%20%EF%BC%8D%20%E5%8D%B0%E5%BA%A6%E5%8F%A4%E8%91%89.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/0JjqsfXvSog/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=0JjqsfXvSog" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -402,7 +412,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum18Jan2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D18%20Jan%202017%20-%20%E4%B8%AD%E5%85%B1%E6%95%B8%E5%94%94%E5%A4%A0%E7%A5%A8%20_%20689%E4%BD%88%E5%B1%80%E5%BB%B6%E7%BA%8C%E8%B7%AF%E7%B7%9A%20_%20%E9%83%8A%E9%87%8E%E5%85%AC%E5%9C%92%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum18Jan2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D18%20Jan%202017%20-%20%E4%B8%AD%E5%85%B1%E6%95%B8%E5%94%94%E5%A4%A0%E7%A5%A8%20_%20689%E4%BD%88%E5%B1%80%E5%BB%B6%E7%BA%8C%E8%B7%AF%E7%B7%9A%20_%20%E9%83%8A%E9%87%8E%E5%85%AC%E5%9C%92%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/AW8KP-uaHRs/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=AW8KP-uaHRs" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -412,7 +422,7 @@
     <category>論盡猛丁歌</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum17Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D17%20Jan%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum17Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D17%20Jan%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/d3noqS1_rH4/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=d3noqS1_rH4" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -422,7 +432,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，楊漢群，Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum14Jan2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D14%20Jan%20%202017%20-%20%E7%94%A8%E7%A5%9E%E8%A1%93.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum14Jan2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D14%20Jan%20%202017%20-%20%E7%94%A8%E7%A5%9E%E8%A1%93.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/-zZsazwcPRA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=-zZsazwcPRA" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -432,7 +442,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，Amanda</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum13Jan2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D13%20Jan%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum13Jan2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D13%20Jan%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/crCqFbhqX4U/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=crCqFbhqX4U" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -442,7 +452,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum11Jan2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D11%20Jan%202017%20-%20%E6%AE%BA%E8%B2%93%E4%BA%8B%E4%BB%B6%20_%20%E7%9C%9F%E6%AD%A3%E9%81%A9%E5%90%88%E8%B2%93%E7%8B%97%E7%9A%84%E9%A3%9F%E7%89%A9%20_%20%E7%89%B9%E9%A6%96%E8%B7%91%E9%A6%AC%E4%BB%94.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum11Jan2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D11%20Jan%202017%20-%20%E6%AE%BA%E8%B2%93%E4%BA%8B%E4%BB%B6%20_%20%E7%9C%9F%E6%AD%A3%E9%81%A9%E5%90%88%E8%B2%93%E7%8B%97%E7%9A%84%E9%A3%9F%E7%89%A9%20_%20%E7%89%B9%E9%A6%96%E8%B7%91%E9%A6%AC%E4%BB%94.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/xpGHEDJmocM/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=xpGHEDJmocM" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -452,7 +462,7 @@
     <category>論盡猛丁歌</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>Gordon Poon 嘉賓：大AN，張朝敦</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum10Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D10%20Jan%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum10Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D10%20Jan%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/JPI0dcYxD44/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=JPI0dcYxD44" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -462,7 +472,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，楊漢群，Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum8Jan2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D8%20Jan%202017%20-%20%E9%81%93%E5%AE%B6%E5%85%83%E5%BA%AD.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum8Jan2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D8%20Jan%202017%20-%20%E9%81%93%E5%AE%B6%E5%85%83%E5%BA%AD.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/UurGRVzkOH4/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=UurGRVzkOH4" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -472,7 +482,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，楊漢群，Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum7Jan2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D7%20Jan%202017%20-%20%E6%95%85%E5%AE%AE%E5%8D%9A%E7%89%A9%E9%A4%A8.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum7Jan2017/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D7%20Jan%202017%20-%20%E6%95%85%E5%AE%AE%E5%8D%9A%E7%89%A9%E9%A4%A8.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/4QquLVAabtU/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=4QquLVAabtU" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -482,7 +492,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，彭志銘</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum30Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D30%20Dec%202016%20-%20%E6%B8%AF%E5%BC%8F%E5%A9%9A%E4%BF%97.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum30Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D30%20Dec%202016%20-%20%E6%B8%AF%E5%BC%8F%E5%A9%9A%E4%BF%97.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/MJnZmwGAqzQ/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=MJnZmwGAqzQ" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -492,7 +502,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum4Jan2017/_FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D4%20Jan%202017%20-%20%E9%98%BF%E6%A5%8A%E8%81%96%E5%9C%B0%E8%A6%8B%E8%81%9E%20_%20%E4%BB%A5%E8%89%B2%E5%88%97%E5%90%8C%E5%8F%B0%E7%81%A3%E3%80%8C%E7%AB%8B%E5%9C%8B%E3%80%8D%E5%B0%8D%E6%AF%94%20%EF%BC%8F%20%E7%92%B0%E7%90%83%E5%BD%A2%E5%8B%A2%E5%B0%8D%E9%A6%99.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum4Jan2017/_FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D4%20Jan%202017%20-%20%E9%98%BF%E6%A5%8A%E8%81%96%E5%9C%B0%E8%A6%8B%E8%81%9E%20_%20%E4%BB%A5%E8%89%B2%E5%88%97%E5%90%8C%E5%8F%B0%E7%81%A3%E3%80%8C%E7%AB%8B%E5%9C%8B%E3%80%8D%E5%B0%8D%E6%AF%94%20%EF%BC%8F%20%E7%92%B0%E7%90%83%E5%BD%A2%E5%8B%A2%E5%B0%8D%E9%A6%99.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/_teyJ5RSkH0/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=_teyJ5RSkH0" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -502,7 +512,7 @@
     <category>論盡猛丁歌</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>Gordon Poon，Eddy Sir</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum3Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D3%20Jan%202017.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum3Jan2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D3%20Jan%202017.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/cAxjkzsMI5s/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=cAxjkzsMI5s" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -512,7 +522,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子，文浩基</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum1Jan2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D1%20Jan%202017%20-%20%E6%97%A5%E6%9C%AC%E5%A6%96%E6%80%AA%20(%E4%BA%8C).mp3"/>
+    <enclosure url="https://archive.org/download/FOURum1Jan2017/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D1%20Jan%202017%20-%20%E6%97%A5%E6%9C%AC%E5%A6%96%E6%80%AA%20(%E4%BA%8C).mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/b29WOkRA4RA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=b29WOkRA4RA" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -522,7 +532,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子 嘉賓：Amanda</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum30Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D30%20Dec%202016%20-%20%E6%B8%AF%E5%BC%8F%E5%A9%9A%E4%BF%97.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum30Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D30%20Dec%202016%20-%20%E6%B8%AF%E5%BC%8F%E5%A9%9A%E4%BF%97.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/iui52xxXZMw/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=iui52xxXZMw" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -532,7 +542,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum28Dec2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D28%20Dec%202016%20-%20%E9%A6%AC%E6%92%92%E5%A4%A7%E5%9F%8E%20_%20%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%8A%E4%B8%AD%E6%9D%B1%E5%BD%A2%E5%8B%A2%20_%20%E7%BE%8E%E4%BF%84%E5%9C%8D%E4%B8%AD.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum28Dec2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D28%20Dec%202016%20-%20%E9%A6%AC%E6%92%92%E5%A4%A7%E5%9F%8E%20_%20%E4%BB%A5%E8%89%B2%E5%88%97%E5%8F%8A%E4%B8%AD%E6%9D%B1%E5%BD%A2%E5%8B%A2%20_%20%E7%BE%8E%E4%BF%84%E5%9C%8D%E4%B8%AD.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/g3YVid2hhIQ/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=g3YVid2hhIQ" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -542,7 +552,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子 ，文浩基</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum25Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D25%20Dec%202016%20-%20%E6%97%A5%E6%9C%AC%E5%A6%96%E6%80%AA%20(%E4%B8%80).mp3"/>
+    <enclosure url="https://archive.org/download/FOURum25Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D25%20Dec%202016%20-%20%E6%97%A5%E6%9C%AC%E5%A6%96%E6%80%AA%20(%E4%B8%80).mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/buz1SYyzbJE/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=buz1SYyzbJE" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -552,7 +562,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum24Dec2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D24%20Dec%202016%20-%20%E7%89%B9%E9%A6%96%E9%81%B8%E6%88%B0%E6%9C%88%E6%97%A6%E4%BA%BA%E7%89%A9.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum24Dec2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D24%20Dec%202016%20-%20%E7%89%B9%E9%A6%96%E9%81%B8%E6%88%B0%E6%9C%88%E6%97%A6%E4%BA%BA%E7%89%A9.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/45z4hsatSKk/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=45z4hsatSKk" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -562,7 +572,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，探長，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum23Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D23%20Dec%202016%20-%20%E9%9D%A2%E8%A9%A6%20(%E4%BA%8C).mp3"/>
+    <enclosure url="https://archive.org/download/FOURum23Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D23%20Dec%202016%20-%20%E9%9D%A2%E8%A9%A6%20(%E4%BA%8C).mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/2IaeFCERq3w/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=2IaeFCERq3w" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -572,7 +582,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群，Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum21Dec2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D21%20Dec%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum21Dec2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D21%20Dec%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/0rbKbK94LFo/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=0rbKbK94LFo" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -582,7 +592,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，探長 嘉賓：Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum18Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D18%20Dec%202016%20-%20%E6%88%91%E5%80%91%E7%9A%84%E9%AC%BC%E6%95%85%E4%BA%8B.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum18Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D18%20Dec%202016%20-%20%E6%88%91%E5%80%91%E7%9A%84%E9%AC%BC%E6%95%85%E4%BA%8B.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/0C7hWhGj8TM/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=0C7hWhGj8TM" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -592,7 +602,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，探長 嘉賓：Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum17Dec2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D17%20Dec%202016%20-%20%E8%80%81%E5%8D%83%20:%20%E6%AE%BA%E6%89%8B%20:%20%E7%89%B9%E9%A6%96%E5%80%99%E9%81%B8%E4%BA%BA.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum17Dec2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D17%20Dec%202016%20-%20%E8%80%81%E5%8D%83%20:%20%E6%AE%BA%E6%89%8B%20:%20%E7%89%B9%E9%A6%96%E5%80%99%E9%81%B8%E4%BA%BA.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/rSBbGL_D4Z4/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=rSBbGL_D4Z4" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -602,7 +612,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum16Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D16%20Dec%202016%20-%20%E9%9D%A2%E8%A9%A6%20(%E4%B8%80).mp3"/>
+    <enclosure url="https://archive.org/download/FOURum16Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D16%20Dec%202016%20-%20%E9%9D%A2%E8%A9%A6%20(%E4%B8%80).mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/racaOkqJtNI/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=racaOkqJtNI" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -612,7 +622,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum14Dec2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D14%20Dec%202016%20-%20%E9%81%B8%E5%A7%94%E9%81%B8%E8%88%89%E7%B5%90%E6%9E%9C%20%2F%20%E6%94%AF%E7%88%86.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum14Dec2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D14%20Dec%202016%20-%20%E9%81%B8%E5%A7%94%E9%81%B8%E8%88%89%E7%B5%90%E6%9E%9C%20%2F%20%E6%94%AF%E7%88%86.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/IAKUOCF2_lA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=IAKUOCF2_lA" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -622,7 +632,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum11Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D11%20Dec%202016%20-%20%E4%BA%BA%E7%8B%BC%E5%82%B3%E5%A5%87.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum11Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D11%20Dec%202016%20-%20%E4%BA%BA%E7%8B%BC%E5%82%B3%E5%A5%87.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/MEBPaLxrXC0/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=MEBPaLxrXC0" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -632,7 +642,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，探長 嘉賓：Gordon Poon</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum10Dec2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D10%20Dec%202016%20-%20689.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum10Dec2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D10%20Dec%202016%20-%20689.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/52PFrAqmn7M/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=52PFrAqmn7M" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -642,7 +652,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，楊漢群 嘉賓：Yoee</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum9Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D9%20Dec%202016%20-%20%E6%B8%AF%E5%BC%8F%E6%8B%8D%E6%8B%96.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum9Dec2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D9%20Dec%202016%20-%20%E6%B8%AF%E5%BC%8F%E6%8B%8D%E6%8B%96.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/LzC4eUYDwUc/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=LzC4eUYDwUc" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -652,7 +662,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇 嘉賓：容樂其</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum7Dec2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D7%20Dec%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum7Dec2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D7%20Dec%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/fi6RObKQdK8/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=fi6RObKQdK8" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -662,7 +672,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum4Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D4%20Dec%202016%20-%20%E6%8C%AA%E4%BA%9E%E6%96%B9%E8%88%9F%20(%E4%BA%8C).mp3"/>
+    <enclosure url="https://archive.org/download/FOURum4Dec2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D4%20Dec%202016%20-%20%E6%8C%AA%E4%BA%9E%E6%96%B9%E8%88%9F%20(%E4%BA%8C).mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/qoI7eEdRnn4/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=qoI7eEdRnn4" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -672,7 +682,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum3Dec2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D3%20Dec%202016%20-%20%E6%94%BF%E5%AE%A2%E8%88%87%E6%94%BF%E6%B2%BB%E5%AE%B6.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum3Dec2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D3%20Dec%202016%20-%20%E6%94%BF%E5%AE%A2%E8%88%87%E6%94%BF%E6%B2%BB%E5%AE%B6.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/j7SGi0t64lc/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=j7SGi0t64lc" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -682,7 +692,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum2Dec2016/FOURum%e3%80%8c%e8%81%9a%e8%a8%80%e5%a0%82%e3%80%8d2%20Dec%202016%20-%20%e4%ba%8c%e5%a5%b6%20%252F%20%e5%b0%8f%e4%b8%89.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum2Dec2016/FOURum%e3%80%8c%e8%81%9a%e8%a8%80%e5%a0%82%e3%80%8d2%20Dec%202016%20-%20%e4%ba%8c%e5%a5%b6%20%252F%20%e5%b0%8f%e4%b8%89.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/349eNlitRkY/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=349eNlitRkY" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -692,7 +702,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum30Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D30%20Nov%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum30Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D30%20Nov%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/Gsqt0ilw7_Q/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Gsqt0ilw7_Q" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -702,7 +712,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum27Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D27%20Nov%202016%20-%20%E7%A6%81%E5%BF%8C.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum27Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D27%20Nov%202016%20-%20%E7%A6%81%E5%BF%8C.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/wUjvF-jbh60/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=wUjvF-jbh60" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -712,7 +722,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum26Nov2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D26%20Nov%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum26Nov2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D26%20Nov%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/RrsJgjp7Jc0/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=RrsJgjp7Jc0" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -722,7 +732,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官 嘉賓：彭志銘</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum25Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D25%20Nov%202016%20-%20%E7%B2%B5%E6%B8%AF%E6%AD%87%E5%BE%8C%E8%AA%9E%20(%E6%88%90%E4%BA%BA%E7%89%88).mp3"/>
+    <enclosure url="https://archive.org/download/FOURum25Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D25%20Nov%202016%20-%20%E7%B2%B5%E6%B8%AF%E6%AD%87%E5%BE%8C%E8%AA%9E%20(%E6%88%90%E4%BA%BA%E7%89%88).mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/C2QnvlAwV_E/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=C2QnvlAwV_E" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -732,7 +742,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum24Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D24%20Nov%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum24Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D24%20Nov%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/nD8wuY6YXRQ/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=nD8wuY6YXRQ" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -742,7 +752,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum20Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D20%20Nov%202016%20-%20%E6%8C%AA%E4%BA%9E%E6%96%B9%E8%88%9F.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum20Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D20%20Nov%202016%20-%20%E6%8C%AA%E4%BA%9E%E6%96%B9%E8%88%9F.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/NUqlDPOFJxw/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=NUqlDPOFJxw" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -752,7 +762,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum19Nov2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D19%20Nov%202016%20-%20%E9%AD%AF%E8%9B%87.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum19Nov2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D19%20Nov%202016%20-%20%E9%AD%AF%E8%9B%87.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/gAJdWBBSH00/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=gAJdWBBSH00" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -762,7 +772,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官 嘉賓：Amanda, Yoee</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum18Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D18%20Nov%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum18Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D18%20Nov%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/Bn_NDDNLXdE/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Bn_NDDNLXdE" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -772,7 +782,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum16Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D16%20Nov%202016%20-%20%E5%85%AC%E5%B1%8B%E5%AF%8C%E6%88%B6%E6%94%BF%E7%AD%96%20_%20%E9%87%8B%E6%B3%95DQ%E5%BC%95%E8%87%B4%E7%9A%84%E5%BD%B1%E9%9F%BF.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum16Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D16%20Nov%202016%20-%20%E5%85%AC%E5%B1%8B%E5%AF%8C%E6%88%B6%E6%94%BF%E7%AD%96%20_%20%E9%87%8B%E6%B3%95DQ%E5%BC%95%E8%87%B4%E7%9A%84%E5%BD%B1%E9%9F%BF.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/JBVY7a9JKz0/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=JBVY7a9JKz0" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -782,7 +792,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum13Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D13%20Nov%202016%20-%20%E9%BE%8D.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum13Nov2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D13%20Nov%202016%20-%20%E9%BE%8D.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/EnkCXBI2wVI/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=EnkCXBI2wVI" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -792,7 +802,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum12Nov2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D12%20Nov%202016%20-%20%E5%A5%B3%E7%9A%87%E4%B8%8A%E6%B5%B7%E8%A6%8B%E8%81%9E%20_%20%E5%95%86%E4%BA%BA%E6%B2%BB%E5%9C%8B.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum12Nov2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D12%20Nov%202016%20-%20%E5%A5%B3%E7%9A%87%E4%B8%8A%E6%B5%B7%E8%A6%8B%E8%81%9E%20_%20%E5%95%86%E4%BA%BA%E6%B2%BB%E5%9C%8B.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/du7HOUkmp34/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=du7HOUkmp34" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -802,7 +812,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子 嘉賓：阿東</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum11Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D11%20Nov%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum11Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D11%20Nov%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/exgFDIhRXb4/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=exgFDIhRXb4" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -812,7 +822,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum9Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D9%20Nov%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum9Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D9%20Nov%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/lvc37aHaMm4/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=lvc37aHaMm4" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -822,7 +832,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum6Nov2016_201611/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D6%20Nov%202016%20-%20%E9%82%AA%E6%95%99.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum6Nov2016_201611/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D6%20Nov%202016%20-%20%E9%82%AA%E6%95%99.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/OdrmJ3csQfI/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=OdrmJ3csQfI" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -832,7 +842,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum6Nov2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D6%20Nov%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum6Nov2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D6%20Nov%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/6fvKEZy8ZJg/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=6fvKEZy8ZJg" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -842,7 +852,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群｜嘉賓：Amanda</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum4Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D4%20Nov%202016%20-%20%E9%A6%99%E6%B8%AF%E5%A9%9A%E7%A6%AE%E6%96%87%E5%8C%96.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum4Nov2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D4%20Nov%202016%20-%20%E9%A6%99%E6%B8%AF%E5%A9%9A%E7%A6%AE%E6%96%87%E5%8C%96.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/yyO_cDS19lI/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=yyO_cDS19lI" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -852,7 +862,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum2Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D2%20Nov%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum2Nov2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D2%20Nov%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/eqK2uK86DrY/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=eqK2uK86DrY" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -862,7 +872,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum30October2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D30%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum30October2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D30%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/9KUN_IJDNTo/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=9KUN_IJDNTo" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -872,7 +882,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum29October2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D29%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum29October2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D29%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/EAWWW8HvPwI/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=EAWWW8HvPwI" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -882,7 +892,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum28October2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D28%20October%202016%20-%20%E6%B3%B0%E5%9C%8B.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum28October2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D28%20October%202016%20-%20%E6%B3%B0%E5%9C%8B.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/YkwYFGM8UBA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=YkwYFGM8UBA" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -892,7 +902,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum26October2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D26%20October%202016%20FOURum.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum26October2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D26%20October%202016%20FOURum.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/Ah6ORe2SMKY/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Ah6ORe2SMKY" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -902,7 +912,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum23October2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D23%20October%202016%20-%20%E8%B2%B4%E4%BA%BA%EF%BC%8C%E5%B0%8F%E4%BA%BA%E8%88%87%E6%80%A8%E8%A6%AA%E5%82%B5%E4%B8%BB.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum23October2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D23%20October%202016%20-%20%E8%B2%B4%E4%BA%BA%EF%BC%8C%E5%B0%8F%E4%BA%BA%E8%88%87%E6%80%A8%E8%A6%AA%E5%82%B5%E4%B8%BB.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/u9C9BJzNEKk/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=u9C9BJzNEKk" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -912,7 +922,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum22October2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D22%20October%202016%20-%20%E4%B8%89%E6%AC%8A%E5%88%86%E7%AB%8B.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum22October2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D22%20October%202016%20-%20%E4%B8%89%E6%AC%8A%E5%88%86%E7%AB%8B.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/Xbq5NLgb18U/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Xbq5NLgb18U" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -922,7 +932,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum21October2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D21%20October%202016%20-%20%E7%94%9F%E6%B6%AF%E8%A6%8F%E5%8A%83.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum21October2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D21%20October%202016%20-%20%E7%94%9F%E6%B6%AF%E8%A6%8F%E5%8A%83.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/Cai2UYtCMnA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Cai2UYtCMnA" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -932,7 +942,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum19October2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D19%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum19October2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D19%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/Vk5DEEMjnVo/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Vk5DEEMjnVo" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -942,7 +952,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum16October2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D16%20October%202016%20-%20%E7%96%86%E5%B1%8D%E8%88%87%E5%90%B8%E8%A1%80%E9%AC%BC.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum16October2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D16%20October%202016%20-%20%E7%96%86%E5%B1%8D%E8%88%87%E5%90%B8%E8%A1%80%E9%AC%BC.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/d3_bQFqoQLo/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=d3_bQFqoQLoqL9YbX0sEE" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -952,7 +962,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum15October2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D15%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum15October2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D15%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/v-cki_X1yXg/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=v-cki_X1yXg" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -962,7 +972,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum14October2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D14%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum14October2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D14%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/KeO7Ii4YHNA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=KeO7Ii4YHNA" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -972,7 +982,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum12October2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D12%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum12October2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D12%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/SEFe3j2UM0A/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=SEFe3j2UM0A" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -982,7 +992,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum9October2016_201610/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D9%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum9October2016_201610/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D9%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/4qL9YbX0sEE/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=4qL9YbX0sEE" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -992,7 +1002,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum9October2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D9%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum9October2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D9%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/BtyX3us1UNs/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=BtyX3us1UNs" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1002,7 +1012,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，紀陶</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum7October2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D7%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum7October2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D7%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/SlyLNHFYxks/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=SlyLNHFYxks" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1012,7 +1022,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群 嘉賓：Philip</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum5October2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D5%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum5October2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D5%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/xK6Venp6ItI/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=xK6Venp6ItI" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1022,7 +1032,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，紀陶</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum2October2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D2%20October%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum2October2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D2%20October%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/CgNn2AwkJso/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=CgNn2AwkJso" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1032,7 +1042,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum1October2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D1%20October%202016.mp3" />
+    <enclosure url="https://archive.org/download/FOURum1October2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D1%20October%202016.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/lNPzyAEclto/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=lNPzyAEclto" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1042,7 +1052,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群 </itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum30September2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D30%20September%202016%20-%20%E6%9B%B8%E5%BA%97%E6%96%87%E5%8C%96.mp3" />
+    <enclosure url="https://archive.org/download/FOURum30September2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D30%20September%202016%20-%20%E6%9B%B8%E5%BA%97%E6%96%87%E5%8C%96.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/VAFGj9adecw/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=VAFGj9adecw" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1052,7 +1062,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>楊漢群，女皇，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum28September2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D28%20September%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum28September2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D28%20September%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/RXU0UJ1E8rk/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=RXU0UJ1E8rk" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1062,7 +1072,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum25September2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D25%20September%202016%20-%20%E5%80%92%E6%95%B8%E6%9C%AB%E6%97%A5.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum25September2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D25%20September%202016%20-%20%E5%80%92%E6%95%B8%E6%9C%AB%E6%97%A5.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/-MerQJz4QMY/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=-MerQJz4QMY" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1073,7 +1083,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum23September2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D23%20September%202016.mp3" />
+    <enclosure url="https://archive.org/download/FOURum23September2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D23%20September%202016.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/jIa6FYC-y8E/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=jIa6FYC-y8E" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1083,7 +1093,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum21September2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D21%20September%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum21September2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D21%20September%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/26z1t0QJkSA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=26z1t0QJkSA" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1093,7 +1103,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum18September2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D18%20September%202016%20-%20%E5%96%AA%E5%B1%8D.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum18September2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D18%20September%202016%20-%20%E5%96%AA%E5%B1%8D.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/v6a2Ph7lPXw/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=v6a2Ph7lPXw" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1103,7 +1113,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，探長 嘉賓：Ruby</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum17September2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D17%20September%202016.mp3" />
+    <enclosure url="https://archive.org/download/FOURum17September2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D17%20September%202016.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/w32likS0SLE/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=w32likS0SLE" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1113,7 +1123,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum16September2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D16%20September%202016%20-%20%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%92%AD%E5%8F%B2%E4%B9%8B%E5%A4%A9%E7%A9%BA%E5%B0%8F%E8%AA%AA%E5%82%B3%E5%A5%87.mp3" />
+    <enclosure url="https://archive.org/download/FOURum16September2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D16%20September%202016%20-%20%E9%A6%99%E6%B8%AF%E5%BB%A3%E6%92%AD%E5%8F%B2%E4%B9%8B%E5%A4%A9%E7%A9%BA%E5%B0%8F%E8%AA%AA%E5%82%B3%E5%A5%87.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/aY3rX-eU1EM/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=aY3rX-eU1EM" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1123,7 +1133,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum14September2016/FOURum%20-%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D14%20September%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum14September2016/FOURum%20-%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D14%20September%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/grS0TrBClVY/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=grS0TrBClVY" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1133,7 +1143,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum11September2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D11%20September%202016%20-%20%E9%AC%BC%E6%96%87%E5%8C%96.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum11September2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D11%20September%202016%20-%20%E9%AC%BC%E6%96%87%E5%8C%96.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/3yXGAuu0SE8/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=3yXGAuu0SE8" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1143,7 +1153,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>探長，女皇，賜官</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum10September2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D10%20September%202016.mp3" />
+    <enclosure url="https://archive.org/download/FOURum10September2016/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D10%20September%202016.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/gdEsKZ8N-_4/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=gdEsKZ8N-_4" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1153,7 +1163,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群，賜官</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum9September2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D9%20September%202016%20-%20%E5%A5%B3%E4%BA%BA.mp3" />
+    <enclosure url="https://archive.org/download/FOURum9September2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D9%20September%202016%20-%20%E5%A5%B3%E4%BA%BA.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/ZVOQSLBbwiE/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=ZVOQSLBbwiE" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1163,7 +1173,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum7September2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D7%20September%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum7September2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D7%20September%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/SIVf91rHaTA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=SIVf91rHaTA" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1173,7 +1183,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>楊漢群，女皇，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum4September2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D4%20September%202016%20-%20%E5%9F%83%E5%8F%8A%E8%88%87%E8%B2%93%20_%20%E5%9F%83%E5%8F%8A%E5%A6%96%E5%90%8E.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum4September2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D4%20September%202016%20-%20%E5%9F%83%E5%8F%8A%E8%88%87%E8%B2%93%20_%20%E5%9F%83%E5%8F%8A%E5%A6%96%E5%90%8E.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/-vvr9KLKErU/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=-vvr9KLKErU" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1183,7 +1193,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>探長，女皇，賜官</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum3September2016/FOURum%20-%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D3%20September%202016.mp3" />
+    <enclosure url="https://archive.org/download/FOURum3September2016/FOURum%20-%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D3%20September%202016.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/mM6u5v1yRs4/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=mM6u5v1yRs4" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1193,7 +1203,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>楊漢群，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum2September2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D2%20September%202016.mp3" />
+    <enclosure url="https://archive.org/download/FOURum2September2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D2%20September%202016.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/7M66okizv9o/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=7M66okizv9o" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1203,7 +1213,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，容樂其</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum31August2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D31%20August%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum31August2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D31%20August%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/yNxnicqN1D4/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=yNxnicqN1D4" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1213,7 +1223,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>楊漢群，女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum28August2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D28%20August%202016%20-%20%E4%B8%AD%E8%A5%BF%E9%A0%90%E8%A8%80.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum28August2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D28%20August%202016%20-%20%E4%B8%AD%E8%A5%BF%E9%A0%90%E8%A8%80.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/O6PcsfL4t4k/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=O6PcsfL4t4k" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1223,7 +1233,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>楊漢群，陳漢森</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum26August2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D26%20August%202016.mp3"/>
+    <enclosure url="https://archive.org/download/FOURum26August2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D26%20August%202016.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/8DaTx6FrtrY/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=8DaTx6FrtrY" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1233,7 +1243,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum24August2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D24%20August%202016.mp3" />
+    <enclosure url="https://archive.org/download/FOURum24August2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D24%20August%202016.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/D4kgSCv8dI8/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=D4kgSCv8dI8" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1243,7 +1253,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>楊漢群，Jeremy</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum19August2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D19%20August%202016%20-%20%E9%A6%99%E6%B8%AF%E8%88%87%E6%96%B0%E5%8A%A0%E5%9D%A1.mp3" />
+    <enclosure url="https://archive.org/download/FOURum19August2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D19%20August%202016%20-%20%E9%A6%99%E6%B8%AF%E8%88%87%E6%96%B0%E5%8A%A0%E5%9D%A1.mp3" type="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/QbjCTaCofo8/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=QbjCTaCofo8" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1253,7 +1263,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum17August2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D17%20August%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum17August2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D17%20August%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/dJ82lM_EHyA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=dJ82lM_EHyA" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1263,7 +1273,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum14August2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D14%20August%202016%20-%20%E5%B7%AB%E8%A0%B1.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum14August2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D14%20August%202016%20-%20%E5%B7%AB%E8%A0%B1.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/QEHn7O0GMfI/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=QEHn7O0GMfI" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1273,7 +1283,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>譚志強，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum12August2016/FOURum%20-%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D12%20August%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum12August2016/FOURum%20-%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D12%20August%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/c5mXPBffO5s/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=c5mXPBffO5s" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1283,7 +1293,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum11August2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D11%20August%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum11August2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D11%20August%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/xvGopBazCIo/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=xvGopBazCIo" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1293,7 +1303,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>譚志強，女皇，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum07August2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D07%20August%202016%20-%20%E9%81%93%E6%95%99.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum07August2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D07%20August%202016%20-%20%E9%81%93%E6%95%99.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/pTR_oe-UpBs/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=pTR_oe-UpBs" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1303,7 +1313,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>楊漢群，主持貓:Snowy，嘉賓：呂筱華</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum5August2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D5%20August%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum5August2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D5%20August%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/Dqi9N2HOumM/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Dqi9N2HOumM" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1313,7 +1323,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum3August2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D3%20August%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum3August2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D3%20August%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/-Z1vXuCzF1w/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=-Z1vXuCzF1w" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1323,7 +1333,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，譚志強</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum31July2016/FOURum%20%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D31%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum31July2016/FOURum%20%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D31%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/B3BTOFHgZRw/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=B3BTOFHgZRw" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1333,7 +1343,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，鄭寶鴻大師</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum29July2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D29%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum29July2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D29%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/og58gHGg40I/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=og58gHGg40I" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1343,7 +1353,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum27July2016/Fourum27July2016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum27July2016/Fourum27July2016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/MXGHlau0YK8/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=MXGHlau0YK8" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1353,7 +1363,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>女皇，譚志強</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum24July2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D24%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum24July2016/FOURum%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D24%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/E1hMn2GLRUE/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=E1hMn2GLRUE" type="application/x-shockwave-flash" medium="video" />
 </item> 
@@ -1362,7 +1372,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum23July2016/FOURum%20-%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D23%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum23July2016/FOURum%20-%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D23%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/ceWb-OG76MA/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=ceWb-OG76MA" type="application/x-shockwave-flash" medium="video" />
 <item>
@@ -1371,7 +1381,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，譚志強，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum22July2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D22%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum22July2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D22%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/ZeztCJG_hyU/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=ZeztCJG_hyU" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1381,7 +1391,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum20July2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D20%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum20July2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D20%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/99x6k8l5zmM/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=99x6k8l5zmM" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1391,7 +1401,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，譚志強</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum17July2016/FOURum%20-%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D17%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum17July2016/FOURum%20-%E3%80%8C%E5%A6%82%E6%98%AF%E6%88%91%E8%81%9E%E3%80%8D17%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/hHaR383W2_0/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=hHaR383W2_0" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1401,7 +1411,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，探長</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum16July2016/FOURum%20-%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D16%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum16July2016/FOURum%20-%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D16%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/Lnichaifzkk/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Lnichaifzkk" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1411,7 +1421,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>楊漢群，吳凱宇博士，輔仁媒體容樂</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum15July2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D15%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum15July2016/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D15%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/nVb02pb65Ss/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=nVb02pb65Ss" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1421,7 +1431,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum13July2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D13%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum13July2016/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D13%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/joW0tMAlysU/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=joW0tMAlysU" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1431,7 +1441,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>譚志強，女皇，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum10July2016/FOURum%20-%20%e3%80%8c%e5%a6%82%e6%98%af%e6%88%91%e8%81%9e%e3%80%8d10%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum10July2016/FOURum%20-%20%e3%80%8c%e5%a6%82%e6%98%af%e6%88%91%e8%81%9e%e3%80%8d10%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/OpY2j-OSvE0/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=OpY2j-OSvE0" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1441,7 +1451,7 @@
     <category>禁室不禁話</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，探長，女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum09July2016/Fourum-09July2016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum09July2016/Fourum-09July2016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/WD8G_0ZHGVM/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=WD8G_0ZHGVM" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1451,7 +1461,7 @@
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，女皇，蕭公子</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum08July2016/FOURum%e3%80%8c%e8%81%9a%e8%a8%80%e5%a0%82%e3%80%8d08%20July%202016.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum08July2016/FOURum%e3%80%8c%e8%81%9a%e8%a8%80%e5%a0%82%e3%80%8d08%20July%202016.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/PZX_of-Xklo/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=PZX_of-Xklo" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1461,7 +1471,7 @@
     <category>決戰中環</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>蕭公子，楊漢群，女皇鏡頭前現真身。</itunes:summary>
-    <enclosure url="https://archive.org/download/20160706_201608/20160706.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/20160706_201608/20160706.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/UKfrN-o9zf8/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=UKfrN-o9zf8" type="application/x-shockwave-flash" medium="video" />
 </item>
@@ -1472,7 +1482,7 @@
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官，譚博，女皇</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum20160703/FOURum%20-%e3%80%8c%e5%a6%82%e6%98%af%e6%88%91%e8%81%9e%e3%80%8d2016-07-03%20%e9%96%8b%e5%8f%b0%e5%a4%a7%e5%85%b8.mp3" TYPE="audio/mpeg" />
+    <enclosure url="https://archive.org/download/FOURum20160703/FOURum%20-%e3%80%8c%e5%a6%82%e6%98%af%e6%88%91%e8%81%9e%e3%80%8d2016-07-03%20%e9%96%8b%e5%8f%b0%e5%a4%a7%e5%85%b8.mp3" type="audio/mpeg" TYPE="audio/mpeg" />
     <itunes:image>https://img.youtube.com/vi/Da-1DStxN5Y/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Da-1DStxN5Y" type="application/x-shockwave-flash" medium="video" />
 </item>
