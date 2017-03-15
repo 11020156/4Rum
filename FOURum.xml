@@ -25,6 +25,36 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
+<!-- <item>
+    <title>《Slash 年青一代／師徒》</title>
+    <pubDate>15 March 2017</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，Amanda 嘉賓：</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum17Mar2017a/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D17%20Mar%202017%20-%20Slash%20%E5%B9%B4%E9%9D%92%E4%B8%80%E4%BB%A3%EF%BC%8F%E5%B8%AB%E5%BE%92.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/AzKn9NMRcCI/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=AzKn9NMRcCI" type="application/x-shockwave-flash" medium="video" />
+</item> -->
+<item>
+    <title>《特首候選人辯論／曹星如現像》</title>
+    <pubDate>15 March 2017</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，女皇，楊漢群</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum15Mar2017/FOURum%E3%80%8C%E6%B1%BA%E6%88%B0%E4%B8%AD%E7%92%B0%E3%80%8D15%20Mar%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/wOIbYGFB0tg/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=wOIbYGFB0tg" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《選戰入直路－歌城論第二回》 </title>
+    <pubDate>14 March 2017</pubDate>
+    <category>論盡猛丁歌</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>Gordon Poon 嘉賓：陸錦城</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum14Mar2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D%2014%20Mar%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/FT5-MoHuAO8/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=FT5-MoHuAO8" type="application/x-shockwave-flash" medium="video" />
+</item> 
 <item>
     <title>《四兇獸》</title>
     <pubDate>12 March 2017</pubDate>
@@ -74,6 +104,7 @@
     <enclosure url="https://archive.org/download/FOURum7Mar2017/FOURum%E3%80%8C%E8%AB%96%E7%9B%A1%E7%8C%9B%E4%B8%81%E6%AD%8C%E3%80%8D7%20Mar%202017%E3%80%8A%E5%8E%9F%E5%89%87VS%E7%AD%96%E7%95%A5%20%EF%BC%8D%20%E6%AD%8C%E5%9F%8E%E8%AB%96%E7%AC%AC%E4%B8%80%E5%9B%9E%E3%80%8B.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/Uou10NNyKaE/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=Uou10NNyKaE" type="application/x-shockwave-flash" medium="video" />
+</item> 
 <item>
     <title>《特首辯論/為何689 2.0無法當選？/人人心裏把尺-阿頼耶識/三種死亡/最簡易積福方法-施食》</title>
     <pubDate>5 March 2017</pubDate>
