@@ -25,16 +25,16 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
-<!-- <item>
+<item>
     <title>《Slash 年青一代／師徒》</title>
-    <pubDate>15 March 2017</pubDate>
+    <pubDate>17 March 2017</pubDate>
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
-    <itunes:summary>蕭公子，Amanda 嘉賓：</itunes:summary>
+    <itunes:summary>蕭公子，Amanda 嘉賓：Krystal, 昌昌</itunes:summary>
     <enclosure url="https://archive.org/download/FOURum17Mar2017a/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D17%20Mar%202017%20-%20Slash%20%E5%B9%B4%E9%9D%92%E4%B8%80%E4%BB%A3%EF%BC%8F%E5%B8%AB%E5%BE%92.mp3" type="audio/mpeg"/>
-    <itunes:image>https://img.youtube.com/vi/AzKn9NMRcCI/0.jpg</itunes:image>
-    <media:content url="https://www.youtube.com/watch?v=AzKn9NMRcCI" type="application/x-shockwave-flash" medium="video" />
-</item> -->
+    <itunes:image>https://img.youtube.com/vi/i-EP2K7-C2U/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=i-EP2K7-C2U" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《特首候選人辯論／曹星如現像》</title>
     <pubDate>15 March 2017</pubDate>
@@ -80,7 +80,7 @@
     <pubDate>10 March 2017</pubDate>
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
-    <itunes:summary>蕭公子，Amanda 嘉賓：Krystal, Krystal, Daniel, Kelvin, Queenie</itunes:summary>
+    <itunes:summary>蕭公子，Amanda 嘉賓：Krystal, Daniel, Kelvin, Queenie</itunes:summary>
     <enclosure url="https://archive.org/download/FOURum10Mar2017/FOURum%E3%80%8C%E8%81%9A%E8%A8%80%E5%A0%82%E3%80%8D10%20Mar%202017%20-%20%E7%A9%BA%E4%B8%AD%E6%9C%8D%E5%8B%99%E5%93%A1%E7%94%9F%E6%B4%BB.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/AzKn9NMRcCI/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=AzKn9NMRcCI" type="application/x-shockwave-flash" medium="video" />
