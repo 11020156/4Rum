@@ -25,6 +25,17 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
+
+<item>
+    <title>《空姐蛋糕師創業夢終成真》</title>
+    <pubDate>7 April 2017</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，Amanda 嘉賓: Cherrie</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum7April2017/FOURum7%20April%202017%20-.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/WdB4AEZS83o/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=WdB4AEZS83o" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《港元末日，補選前瞻》</title>
     <pubDate>5 April 2017</pubDate>
