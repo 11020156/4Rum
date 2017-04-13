@@ -25,7 +25,16 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
-
+<item>
+    <title>《跨世代民主對話》</title>
+    <pubDate>12 April 2017</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，Jolline 嘉賓：Eddy Sir，張秀賢</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum12Apr2017/FOURum%2012%20Apr%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/PGAXS4fgC4w/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=PGAXS4fgC4w" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《西方的幻獸》</title>
     <pubDate>9 April 2017</pubDate>
