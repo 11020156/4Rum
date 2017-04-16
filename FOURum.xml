@@ -25,6 +25,28 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
+
+<item>
+    <title>《侵侵與金金/聯航雪崩式關公災難》</title>
+    <pubDate>15 April 2017</pubDate>
+    <category>禁室不禁話</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，賜官，Jolline</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum15Apr2017/FOURum%2015%20Apr%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/xrMdy6wbnpo/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=xrMdy6wbnpo" type="application/x-shockwave-flash" medium="video" />
+</item> 
+<item>
+    <title>《國際小丑王香港創業夢》</title>
+    <pubDate>14 April 2017</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，Amanda 嘉賓: Kenneth</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum14April2017/FOURum%20%2014%20April%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/5uVcjZXrd58/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=5uVcjZXrd58" type="application/x-shockwave-flash" medium="video" />
+</item>
+
 <item>
     <title>《跨世代民主對話》</title>
     <pubDate>12 April 2017</pubDate>
