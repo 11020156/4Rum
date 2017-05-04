@@ -25,6 +25,17 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
+
+<item>
+    <title>《香港政策法／三跑影響民生》</title>
+    <pubDate>3 May 2017</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，女皇，Jolline</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum3May2017/FOURum%203%20May%202017%20%20-.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/8xYlBSiDngw/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=8xYlBSiDngw" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《癌症與糖密不可分/ 生酮飲食救命原理》</title>
     <pubDate>30 April 2017</pubDate>
