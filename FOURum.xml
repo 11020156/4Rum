@@ -24,6 +24,17 @@
   </itunes:category>
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
+
+<item>
+    <title>《生酮飲食》</title>
+    <pubDate>8 May 2017</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum8May2017/FOURum%20%208%20May%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/8TVKU005GG4/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=8TVKU005GG4" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《垃圾收費/特區教育搞乜鬼/六大門派興師》</title>
     <pubDate>6 May 2017</pubDate>
