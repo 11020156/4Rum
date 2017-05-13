@@ -23,7 +23,7 @@
     <itunes:category text="Society Culture"/>
   </itunes:category>
   <itunes:explicit>Yes</itunes:explicit>
-  <allowDownload></allowDownload>
+  <allowDownload>No</allowDownload>
 
 <item>
     <title>《香港泰拳拳王入行及成功路》</title>
