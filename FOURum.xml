@@ -26,13 +26,23 @@
   <allowDownload></allowDownload>
 
 <item>
+    <title>《中西文化的禁忌》</title>
+    <pubDate>27 May 2017</pubDate>
+    <category>禁室不禁話</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>楊漢群，女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum27May2017/FOURum%2027%20May%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/B1rJx5wCVK0/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=B1rJx5wCVK0" type="application/x-shockwave-flash" medium="video" />
+</item> 
+<item>
     <title>《愛心激發創意，專注成就事業。狗狗星爸分享創業心得》</title>
-    <pubDate>28 May 2017</pubDate>
+    <pubDate>26 May 2017</pubDate>
     <category>聚言堂</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>主持：蕭公子，Amanda
 嘉賓：專業訓犬員 - Decky Li (阿良訓犬之家－www.hifidolby.com)</itunes:summary>
-    <enclosure url="https://archive.org/download/FOURum28May2017/FOURum%2028%20May%202017.mp3" type="audio/mpeg"/>
+    <enclosure url="https://archive.org/download/FOURum26May2017/FOURum%20%2026%20May%202017%20%20,.mp3" type="audio/mpeg"/>
     <itunes:image>https://img.youtube.com/vi/6XjVaPDCt7I/0.jpg</itunes:image>
     <media:content url="https://www.youtube.com/watch?v=6XjVaPDCt7I" type="application/x-shockwave-flash" medium="video" />
 </item>
