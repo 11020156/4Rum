@@ -25,6 +25,17 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
+
+<item>
+    <title>《中港兩地 KOL 生存模式大解密》</title>
+    <pubDate>2 June 2017</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>主持：蕭公子，Amanda 嘉賓： Chois，Christine (臻昇傳媒集團有限公司)</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum2Jun2017KOL/FOURum%202%20Jun%202017%20%20%20KOL.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/0jUT-rXM_NM/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=0jUT-rXM_NM" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《 港府醫療慘業草菅人命，港人自保自救自求多福 》</title>
     <pubDate>31 May 2017</pubDate>
