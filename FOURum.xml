@@ -23,7 +23,7 @@
     <itunes:category text="Society Culture"/>
   </itunes:category>
   <itunes:explicit>Yes</itunes:explicit>
-  <allowDownload></allowDownload>
+  <!-- <allowDownload></allowDownload> -->
 
 <item>
     <title>《賜官式一帶一路 / 女皇尋找他鄉的太爺 / 冊封權只此兩家，居然冇陳雲國師份？》</title>
