@@ -25,6 +25,16 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
+<item>
+    <title>《「777」新班子終於出爐 》</title>
+    <pubDate>21 June 2017</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>楊漢群，蕭公子</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum21Jun2017777/FOURum21%20Jun%202017%20%20777.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/tULBBiBLCRU/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=tULBBiBLCRU" type="application/x-shockwave-flash" medium="video" />
+</item>
 
 <item>
     <title>《中國巫術》</title>
