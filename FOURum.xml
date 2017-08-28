@@ -25,6 +25,36 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
+  <item>
+    <title>《法律解決不了政治問題》</title>
+    <pubDate>26 Aug 2017</pubDate>
+    <category>禁室不禁話</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum26Aug2017/FOURum26%20Aug%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/P_J08FEY7k0/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=P_J08FEY7k0" type="application/x-shockwave-flash" medium="video" />
+</item> 
+<item>
+    <title>《藝術修養 + 品牌管理成為致勝關鍵》</title>
+    <pubDate>25 Aug 2017</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，Amanda 嘉賓：Johnathan Lee Johnathan Lee Fine Art Photography</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum25Aug2017/FOURum25%20Aug%202017%20%20,.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/-V5kOh1fRso/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=-V5kOh1fRso" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《日全蝕》</title>
+    <pubDate>24 Aug 2017</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum24Aug2017/FOURum24%20Aug%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/eE13ZhnSDPw/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=eE13ZhnSDPw" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《三子判監》</title>
     <pubDate>19 Aug 2017</pubDate>
