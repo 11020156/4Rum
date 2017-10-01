@@ -26,6 +26,16 @@
   <allowDownload></allowDownload>
 
 <item>
+    <title>《言論自由是什麽？》</title>
+    <pubDate>30 Sep 2017</pubDate>
+    <category>禁室不禁話</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum30Sep2017/FOURum30%20Sep%202017%20%20-.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/9JLUq35DJrk/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=9JLUq35DJrk" type="application/x-shockwave-flash" medium="video" />
+</item> 
+<item>
     <title>《僱傭與您》</title>
     <pubDate>29 Sep 2017</pubDate>
     <category>聚言堂</category>
