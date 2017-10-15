@@ -25,7 +25,46 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
-
+<item>
+    <title>《粤語趣談之一》</title>
+    <pubDate>14 Oct 2017</pubDate>
+    <category>禁室不禁話</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum14Oct2017/FOURum14%20Oct%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/d4KEJXi2P2I/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=d4KEJXi2P2I" type="application/x-shockwave-flash" medium="video" />
+</item> 
+<item>
+    <title>《私房菜創意經營法》</title>
+    <pubDate>13 Oct 2017</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，Amanda 嘉賓：Elizebeth Lam (eye KITCHEN LTD.)</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum13Oct2017/FOURum%2013%20Oct%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/xoE8yx2mccs/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=xoE8yx2mccs" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《娼妓通識之二》Part 2</title>
+    <pubDate>12 Oct 2017</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum12Oct20172/FOURum12%20Oct%202017%20%20%202.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/7VrKY1QerEU/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=7VrKY1QerEU" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《娼妓通識之二》Part 1</title>
+    <pubDate>12 Oct 2017</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum12Oct20171/FOURum12%20Oct%202017%20%20%201.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/7VrKY1QerEU/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=7VrKY1QerEU" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《林鄭施政看門路: 重施港英手段, 考驗泛民水平》</title>
     <pubDate>11 Oct 2017</pubDate>
