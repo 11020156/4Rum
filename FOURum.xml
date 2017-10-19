@@ -25,6 +25,17 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
+
+<item>
+    <title>《又傾又砌，拆解林鄭大佈局》</title>
+    <pubDate>18 Oct 2017</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>女皇，蕭公子，馮嘉和博士 嘉賓：梁國雄，姚松炎</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum18Oct2017/FOURum%2018%20Oct%202017%20%20,.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/zWjjh8mugoE/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=zWjjh8mugoE" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《粤語趣談之一》</title>
     <pubDate>14 Oct 2017</pubDate>
