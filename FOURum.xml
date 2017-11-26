@@ -24,7 +24,36 @@
   </itunes:category>
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
-
+<item>
+    <title>《本地平面設計師獲得國際品牌垂青的秘技》</title>
+    <pubDate>24 Nov 2017</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，Amanda 嘉賓：Jerry Lau ( 香港雙節棍總會 )</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum24Nov2017/FOURum%2024%20Nov%202017%20%20%2C_.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/fjeLyNyxvXA/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=fjeLyNyxvXA" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《星級品酒師大談品酒學問之二》</title>
+    <pubDate>23 Nov 2017</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，嘉賓：Fourson - 星級品酒導師，Paul - 資深葡萄酒鑑賞家</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum23Nov2017/FOURum23%20Nov%202017.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/FocSUNAlf6A/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=FocSUNAlf6A" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《志平話：港人終於有幸可以為國捐軀；歷史話：自古以來都係老點你》</title>
+    <pubDate>22 Nov 2017</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>馮嘉和博士，蕭公子，女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum22Nov2017/FOURum%2022%20Nov%202017%20%20_%3B_.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/3EDbNaKRtdE/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=3EDbNaKRtdE" type="application/x-shockwave-flash" medium="video" />
+</item>
   <item>
     <title>《以色列復國及耶教來華》</title>
     <pubDate>18 Nov 2017</pubDate>
@@ -36,7 +65,7 @@
     <media:content url="https://www.youtube.com/watch?v=6nBsg2r48z0" type="application/x-shockwave-flash" medium="video" />
 </item> 
 <item>
-    <title>《星級品酒師大談品酒學問之一</title>
+    <title>《星級品酒師大談品酒學問之一》</title>
     <pubDate>16 Nov 2017</pubDate>
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
