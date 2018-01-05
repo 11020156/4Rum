@@ -25,10 +25,29 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
-
+<item>
+    <title>《放眼世界、反思中港；神權也非安全，蘇維埃也可解體》</title>
+    <pubDate>3 Jan 2018</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>馮嘉和博士，蕭公子</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum3Jan2018/FOURum%203%20Jan%202018%20%20%20%3B%2C.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/aobUTlM0OFM/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=aobUTlM0OFM" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《衝出香港放眼世界- 遠赴芬蘭訪問教育專家》</title>
+    <pubDate>29 Dec 2017</pubDate>
+    <category>聚言堂</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>Amanda 嘉賓：Ms. Paula Lehtonen-Mauffret Pedagogical Expert VisitEDUfinn Ltd.</itunes:summary>
+    <enclosure url="https://archive.org/download/hkfourum_gmail_Mp3_20171229/mp3.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/GnxXv8gnKGM/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=GnxXv8gnKGM" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《鬼王大談鬼故事之二》</title>
-    <pubDate>21 Dec 2017</pubDate>
+    <pubDate>28 Dec 2017</pubDate>
     <category>如是我聞</category>
     <itunes:author>FOURum</itunes:author>
     <itunes:summary>賜官 嘉賓：潘沼聰(香港DJ和香港著名靈異電台節目主持)</itunes:summary>
