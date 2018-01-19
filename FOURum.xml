@@ -23,9 +23,38 @@
     <itunes:category text="Society Culture"/>
   </itunes:category>
   <itunes:explicit>Yes</itunes:explicit>
-  <allowDownload></allowDownload>
+  <!-- <allowDownload></allowDownload> -->
 
-
+<item>
+    <title>《西環治港已經熟手，泛民各路仍舊天真》</title>
+    <pubDate>17 Jan 2018</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>馮嘉和博士，蕭公子</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum17Jan2018/FOURum%2017%20Jan%202018%20%20%2C.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/vv0ZeqvE2I8/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=vv0ZeqvE2I8" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《女皇東京驚魂記 / 破酮補救法 / 光滑無紋的秘訣》</title>
+    <pubDate>15 Dec 2017</pubDate>
+    <category>生酮感受</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum15Jan2018/FOURum15%20Jan%202018.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/JKJxKBCFDeo/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=JKJxKBCFDeo" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《UFO飛碟與外星人之二》</title>
+    <pubDate>11 Jan 2018</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官 嘉賓：Moon Fong (Hong Kong UFO Club Chairman)</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum11Jan2018UFO/FOURum11%20Jan%202018%20%20UFO.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/52JqZXHzl3Y/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=52JqZXHzl3Y" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《民生新戰線，挑戰大灣區；法治崩潰，咎由自取》</title>
     <pubDate>10 Jan 2018</pubDate>
