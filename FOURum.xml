@@ -23,7 +23,7 @@
     <itunes:category text="Society Culture"/>
   </itunes:category>
   <itunes:explicit>Yes</itunes:explicit>
-  <!-- <allowDownload></allowDownload> -->
+  <allowDownload></allowDownload>
 
 <item>
     <title>《西環治港已經熟手，泛民各路仍舊天真》</title>
