@@ -25,7 +25,46 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
-
+<item>
+    <title>《2003 疑似重來，國際角力繼續升溫》</title>
+    <pubDate>7 Feb 2018</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>女皇，蕭公子</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum7Feb20182003/FOURum7%20Feb%202018%20%202003%20%2C.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/tNKuRCFiV1M/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=tNKuRCFiV1M" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《消化三功臣 - 胃，膽，胰臟 / 最強排毒方案 - 咖啡灌腸》</title>
+    <pubDate>6 Feb 2018</pubDate>
+    <category>生酮感受</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/hkfourum_gmail_201802/%2C%2C%20%20-.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/k1kZgpkzQq4/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=k1kZgpkzQq4" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《講電影，談親情，人性》</title>
+    <pubDate>3 Feb 2018</pubDate>
+    <category>禁室不禁話</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官，女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum3Feb2018/FOURum%E3%80%8C%E7%A6%81%E5%AE%A4%E4%B8%8D%E7%A6%81%E8%A9%B1%E3%80%8D3%20Feb%202018.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/GGrw2CJh4b8/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=GGrw2CJh4b8" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《預言之謎2》</title>
+    <pubDate>1 Feb 2018</pubDate>
+    <category>如是我聞</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>賜官</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum1Feb20182/FOURum1%20Feb%202018%20%202.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/PDpxg66OxtI/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=PDpxg66OxtI" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《DQ 餘波未了，香港勢變磨心》</title>
     <pubDate>31 Jan 2018</pubDate>
