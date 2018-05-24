@@ -24,6 +24,17 @@
   </itunes:category>
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
+
+<item>
+    <title>《FOURum「決戰中環」 23 May 2018》</title>
+    <pubDate>23 May 2018</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>馮嘉和博士，蕭公子</itunes:summary>
+    <enclosure url="https://www.youtube.com/watch?v=xtfG7hBqMao" type="application/x-shockwave-flash"/>
+    <itunes:image>https://img.youtube.com/vi/xtfG7hBqMao/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=xtfG7hBqMao" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《22 May 18 Part 1》</title>
     <pubDate>22 May 2018</pubDate>
