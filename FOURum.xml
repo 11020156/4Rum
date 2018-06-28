@@ -25,7 +25,26 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
-
+<item>
+    <title>《面對支爆，玉石俱焚是心態、盡量搵錢是智慧》</title>
+    <pubDate>27 June 2018</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子，女皇，馮嘉和博士</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum27June2018/FOURum%2027%20June%202018%20%20%2C.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/BSZOwfyKd7w/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=BSZOwfyKd7w" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《FOURum「生酮感受」27 June 2018》</title>
+    <pubDate>27 June 2018</pubDate>
+    <category>生酮感受</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>布甸，女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum27June2018_201806/FOURum%2027%20June%202018.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/cqPj6jzS62o/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=cqPj6jzS62o" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《政經大變局, 暴利險中求, 祝各位大富大貴》</title>
     <pubDate>20 June 2018</pubDate>
