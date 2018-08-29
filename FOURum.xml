@@ -25,7 +25,16 @@
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
 
-
+<item>
+    <title>《27 August 2018 - 椰子油 vs. 檢察官的邏輯，誰比誰有毒？》</title>
+    <pubDate>27 Aug 2018</pubDate>
+    <category>生酮感受</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>啫喱布丁，女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum27August2018Vs/FOURum27%20August%202018%20%20vs%20%2C%3F.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/chVcMHyshO8/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=chVcMHyshO8" type="application/x-shockwave-flash" medium="video" />
+</item>
 <item>
     <title>《13 August 2018 - 女皇深度講解尿酸和痛風/關節炎，和坊間資訊的誤區》</title>
     <pubDate>13 Aug 2018</pubDate>
