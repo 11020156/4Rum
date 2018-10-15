@@ -24,6 +24,40 @@
   </itunes:category>
   <itunes:explicit>Yes</itunes:explicit>
   <allowDownload></allowDownload>
+
+<item>
+    <title>《10 Oct 2018 - 中美不止冷戰, 而係準備熱戰》</title>
+    <pubDate>10 Oct 2018</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum10October2018/FOURum%2010%20October%202018.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/h201jQkwN2E/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=h201jQkwN2E" type="application/x-shockwave-flash" medium="video" />
+</item>
+
+<item>
+    <title>《26 Sep 2018 - 貿易戰爭會打幾耐? 以史為鑑, 不如研究一下鄭和係乜嘢收場》</title>
+    <pubDate>26 Sep 2018</pubDate>
+    <category>決戰中環</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>蕭公子</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum26September2018/FOURum%2026%20September%202018.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/0sso4BbV_dM/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=0sso4BbV_dM" type="application/x-shockwave-flash" medium="video" />
+</item>
+<item>
+    <title>《18 Sep 2018 - 低碳會短命？魔鬼在細節中 太多利益輸送》</title>
+    <pubDate>18 Sep 2018 2018</pubDate>
+    <category>生酮感受</category>
+    <itunes:author>FOURum</itunes:author>
+    <itunes:summary>生酮女皇</itunes:summary>
+    <enclosure url="https://archive.org/download/FOURum18September2018/FOURum%2018%20September%202018%20%3F.mp3" type="audio/mpeg"/>
+    <itunes:image>https://img.youtube.com/vi/Qe7f2T1SHR0/0.jpg</itunes:image>
+    <media:content url="https://www.youtube.com/watch?v=Qe7f2T1SHR0" type="application/x-shockwave-flash" medium="video" />
+</item>
+
+
 <item>
     <title>《13 Sep 2018 - 訪問陳劍烽師傅之一》</title>
     <pubDate>13 Sep 2018</pubDate>
